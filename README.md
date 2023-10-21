@@ -1,5 +1,13 @@
 <h1>Hola Me llamo Jordy Ramirez</h1>
 <a href="https://www.youtube.com/channel/UClj7HE1mg5jU1O7JENJwkZw">Este es mi Canal de Youtube</a>
+<style  display: flex;
+  gap: 16px;>
+  <section class="layout">
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+  </section>
+</style>
 
 
 <!--
