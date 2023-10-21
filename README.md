@@ -1,4 +1,7 @@
+<h1>Hola Me llamo Jordy Ramirez</h1>
 ### tambien me suelen decir DobleR
+<a href="https://www.youtube.com/channel/UClj7HE1mg5jU1O7JENJwkZw">Este es mi Canal de Youtube</a>
+
 
 <!--
 **dobler22/dobler22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
