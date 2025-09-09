@@ -1,43 +1,43 @@
-# 💼 Jordy Ramirez | Dobler22
+# 🌿 Jordy Ramirez | Dobler22
 
-¡Bienvenido! Soy **Jordy Ramirez**, ingeniero en Tecnologías de la Información con pasión por los videojuegos, la edición digital y la creación de contenido. Este espacio es una ventana a mis proyectos, ideas y evolución profesional.
-
----
-
-## 🧠 Sobre mí
-
-🎓 **Ingeniero TI** con enfoque en innovación, desarrollo y comunicación digital.  
-🎮 **Gamer de corazón**, explorando mundos virtuales y compartiendo experiencias.  
-🎥 **Editor y creador de contenido**, siempre en busca de mejorar la calidad visual y narrativa.  
-🌐 **Curioso por naturaleza**, me encanta aprender, experimentar y conectar con nuevas comunidades.
+Bienvenido a mi espacio digital.  
+Soy **Jordy Ramirez**, ingeniero en Tecnologías de la Información, apasionado por los videojuegos, la edición audiovisual y el aprendizaje constante.
 
 ---
 
-## 📺 Canal de YouTube
+## 🧭 Perfil Profesional
 
-🔗 [Dobler22 en YouTube](https://www.youtube.com/@dobler22)  
-En mi canal encontrarás:
-- Gameplays y análisis de videojuegos 🎮  
-- Tutoriales y herramientas tecnológicas 🛠️  
-- Proyectos personales y colaborativos 🚀  
-
-Suscríbete para no perderte lo nuevo. ¡Tu apoyo impulsa mi creatividad!
+🧑‍💻 **Formación:** Ingeniería en Tecnologías de la Información  
+🎮 **Intereses:** Videojuegos, tecnología, edición de contenido, comunicación digital  
+📚 **Valores:** Creatividad, mejora continua, colaboración y autenticidad
 
 ---
 
-## 📱 Redes sociales
+## 🎥 Canal de YouTube
+
+📺 [Dobler22 en YouTube](https://www.youtube.com/@dobler22)  
+En mi canal comparto contenido sobre:
+- Gameplays y experiencias gamer  
+- Tutoriales tecnológicos y herramientas útiles  
+- Proyectos personales y colaborativos  
+
+> _Exploro, edito y comparto. Cada video es una nueva historia._
+
+---
+
+## 🌐 Redes Sociales
 
 Conecta conmigo y sé parte de esta comunidad:
 
-- 🌐 [Facebook](https://www.facebook.com/profile.php?id=61562238764492)  
+- 🟦 [Facebook](https://www.facebook.com/profile.php?id=61562238764492)  
 - 📸 [Instagram](https://www.instagram.com/jordy_dobler/)  
 
 ---
 
-## 🚧 En construcción...
+## 🛠️ En desarrollo...
 
 Actualmente estoy trabajando en:
-- Mejorar la edición de mis videos  
+- Mejorar la edición visual y sonora de mis videos  
 - Explorar nuevas temáticas tecnológicas  
 - Crear contenido más interactivo y educativo  
 
@@ -45,10 +45,10 @@ Actualmente estoy trabajando en:
 
 ## 🤝 ¿Colaboramos?
 
-Estoy abierto a ideas, proyectos y colaboraciones. Si te interesa trabajar conmigo o tienes sugerencias, ¡no dudes en escribirme!
+Estoy abierto a ideas, sugerencias y proyectos.  
+Si te interesa trabajar conmigo o simplemente compartir ideas, ¡escríbeme!
 
 ---
 
 > _“La tecnología no solo se aprende, se vive. Y los videojuegos no solo se juegan, se sienten.”_  
 > — Jordy Ramirez
-
