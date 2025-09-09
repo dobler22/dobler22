@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/dobler22-logo.png" alt="DOBler22 Logo" width="200" style="border-radius: 50%;">
+  <img src="https://ibb.co/xtnmwmpM" alt="DOBler22 Logo" width="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">🌿 Jordy Ramirez | DOBler22</h1>
