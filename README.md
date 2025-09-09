@@ -1,7 +1,9 @@
-# 🌿 Jordy Ramirez | Dobler22
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.c1d9933f-87d7-4af7-8a4b-3daae4de74ec.png" alt="DOBler22 Logo" width="200" style="border-radius: 50%;">
+</p>
 
-Bienvenido a mi espacio digital.  
-Soy **Jordy Ramirez**, ingeniero en Tecnologías de la Información, apasionado por los videojuegos, la edición audiovisual y el aprendizaje constante.
+<h1 align="center">🌿 Jordy Ramirez | DOBler22</h1>
+<p align="center">Ingeniero en Tecnologías de la Información | Creador de contenido | Gamer</p>
 
 ---
 
