@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.c1d9933f-87d7-4af7-8a4b-3daae4de74ec.png" alt="DOBler22 Logo" width="200" style="border-radius: 50%;">
+  <img src="https://drive.google.com/file/d/1GyaCL3wfHnicP7_KcMysWn-5mmO8z1tP/view?usp=sharing" alt="DOBler22 Logo" width="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">🌿 Jordy Ramirez | DOBler22</h1>
